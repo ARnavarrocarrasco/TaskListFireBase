@@ -39,7 +39,7 @@ const TaskList = ({showSettings, setShowSettings}) => {
             <header className='flex justify-between'>
                 <div className='flex items-center gap-2'> 
                     <FaThList className='text-2xl text-sky-700'/> 
-                    <span className='text-2xl text-sky-700 font-semibold'> Task List V4</span>
+                    <span className='text-2xl text-sky-700 font-semibold'> Task List V6</span>
                 </div>
                 <motion.button  
                     whileHover={{scale: 1.1}} 
